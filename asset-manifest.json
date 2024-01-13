@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bdf4150.chunk.css",
-    "main.js": "/static/js/main.ed23d91a.chunk.js",
-    "main.js.map": "/static/js/main.ed23d91a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.b8f3c4c4.js",
-    "runtime~main.js.map": "/static/js/runtime~main.b8f3c4c4.js.map",
-    "static/css/2.a94b31b9.chunk.css": "/static/css/2.a94b31b9.chunk.css",
-    "static/js/2.a40c962d.chunk.js": "/static/js/2.a40c962d.chunk.js",
-    "static/js/2.a40c962d.chunk.js.map": "/static/js/2.a40c962d.chunk.js.map",
-    "static/js/3.0e4cdb98.chunk.js": "/static/js/3.0e4cdb98.chunk.js",
-    "static/js/3.0e4cdb98.chunk.js.map": "/static/js/3.0e4cdb98.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.abdc2c40a447d0bc145dc3f3d88144c4.js": "/precache-manifest.abdc2c40a447d0bc145dc3f3d88144c4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.a94b31b9.chunk.css.map": "/static/css/2.a94b31b9.chunk.css.map",
-    "static/css/main.4bdf4150.chunk.css.map": "/static/css/main.4bdf4150.chunk.css.map"
+    "main.css": "/robofriends/static/css/main.4bdf4150.chunk.css",
+    "main.js": "/robofriends/static/js/main.866d23db.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.866d23db.chunk.js.map",
+    "runtime~main.js": "/robofriends/static/js/runtime~main.706094a7.js",
+    "runtime~main.js.map": "/robofriends/static/js/runtime~main.706094a7.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/robofriends/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.a40c962d.chunk.js": "/robofriends/static/js/2.a40c962d.chunk.js",
+    "static/js/2.a40c962d.chunk.js.map": "/robofriends/static/js/2.a40c962d.chunk.js.map",
+    "static/js/3.0e4cdb98.chunk.js": "/robofriends/static/js/3.0e4cdb98.chunk.js",
+    "static/js/3.0e4cdb98.chunk.js.map": "/robofriends/static/js/3.0e4cdb98.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.07420866b6d9de46cb4e4dea38428e68.js": "/robofriends/precache-manifest.07420866b6d9de46cb4e4dea38428e68.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/robofriends/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.4bdf4150.chunk.css.map": "/robofriends/static/css/main.4bdf4150.chunk.css.map"
   }
 }
