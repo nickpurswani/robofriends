@@ -3,7 +3,7 @@ import React, { useEffect,useState } from "react";
 import CardList from "../components/CardList";
 import SearchBox from "../components/SearchBox";
 import Scroll from "../components/Scroll";
-
+import Header from '../components/Header';
 import ErrorBoundary from "../components/ErrorBoundary";
 import {requestRobots, setSearchField} from '../action';
 import {connect} from 'react-redux';
@@ -44,7 +44,7 @@ const mapDispatchToProps=(dispatch)=>{
             else{
     return(
         <div className="tc">
-            <h1 className="f1" >RoboFriends</h1>
+            <Header/>
             <SearchBox searchchange={onSearchChange}/>
             <Scroll>
             <ErrorBoundary>
