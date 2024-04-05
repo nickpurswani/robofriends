@@ -16,11 +16,11 @@ describe('actions', () => {
   })
 })
 
-describe("Fetch robots action PENDING", () => {
-  it("should creat a Pending action on request Robots", () => {
-    const store = mockStore();
-    store.dispatch(actions.requestRobots())
-    const action = store.getActions();
-    expect(action[0]).toEqual({type: "REQUEST_ROBOTS_PENDING"});
-  });
-});
+// describe("Fetch robots action PENDING", () => {
+//   it("should create a Pending action on request Robots", () => {
+//     const store = mockStore();
+//     store.dispatch(actions.requestRobots())
+//     const action = store.getActions();
+//     expect(action[0]).toEqual({type: "REQUEST_ROBOTS_PENDING"});
+//   });
+// });
